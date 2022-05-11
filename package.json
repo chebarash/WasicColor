@@ -22,5 +22,16 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.32"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chebarash/WasicColor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chebarash/WasicColor/issues"
+  },
+  "homepage": "https://github.com/chebarash/WasicColor#readme"
 }
