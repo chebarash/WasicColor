@@ -8,7 +8,7 @@ class WasicColor extends Component<Props> {
     onError: (error: Object) => {},
     getColors: (colors: Array<Array<number> | string>) => {},
     rgb: false,
-    hex: true,
+    hsl: true,
     src: null,
     maxColors: 64,
   };
